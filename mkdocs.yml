@@ -2,10 +2,12 @@ site_name: Services
 site_url: https://docs.blackphp.com
 site_description: Manual de usuario de Servicios
 site_author: Edwin Fajardo
-copyright: Copyright 2024 Algoritmia SV
+copyright: Copyright &copy;2024 Algoritmia SV
 nav:
   - Inicio: index.md
   - Usuario: usuario.md
+  - Suministro:
+    - 'Usuarios de servicios': suministro/usuarios.md
   - Herramientas:
     - 'Historial de actividades': herramientas/historial-actividades.md
     - 'Papelera de reciclaje': herramientas/papelera.md
