@@ -1,8 +1,9 @@
 site_name: Services
-site_url: https://docs.blackphp.com
+site_url: https://manuales.algoritmia.sv/services/
 site_description: Manual de usuario de Servicios
 site_author: Edwin Fajardo
 copyright: Copyright &copy;2024 Algoritmia SV
+site_dir: /store/bphp/manuals/services
 nav:
   - Inicio: index.md
   - Usuario: usuario.md
@@ -20,3 +21,5 @@ theme:
   name: mkdocs
   nav_style: dark
   locale: es
+extra_css:
+  - css/algoritmiasv.css
