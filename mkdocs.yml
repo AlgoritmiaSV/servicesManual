@@ -9,12 +9,19 @@ nav:
   - Usuario: usuario.md
   - Suministro:
     - 'Usuarios de servicios': suministro/usuarios.md
+    - Acometidas: suministro/acometidas.md
+    - Facturación: suministro/facturacion.md
+    - Lecturas: suministro/lecturas.md
+    - Cobros: suministro/cobros.md
+    - Sectores: suministro/sectores.md
   - Herramientas:
     - 'Historial de actividades': herramientas/historial-actividades.md
     - 'Papelera de reciclaje': herramientas/papelera.md
   - Configuraciones:
     - 'Datos de la empresa': configuraciones/entidad.md
     - Preferencias: configuraciones/preferencias.md
+    - 'Cuentas bancarias': configuraciones/cuentas-bancarias.md
+    - 'Planes tarifarios': configuraciones/planes-tarifarios.md
     - Roles: configuraciones/roles.md
     - Usuarios: configuraciones/usuarios.md
 theme:
